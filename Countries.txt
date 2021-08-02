@@ -5,3 +5,6 @@ india
 china
 =====europe====
 germany
+=====NA====
+mexico
+canada
